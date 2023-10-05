@@ -2,14 +2,14 @@
 
 ### To Do:
 
-* GRU
-* Autoencoder
-* 1D Convolution
-* 1D Convolution + RNN
-* Transformer
+- [x] GRU
+- [x] Autoencoder
+- [ ] 1D Convolution
+- [ ] 1D Convolution + RNN
+- [ ] Transformer
 
 
-* Make Models -V1
-* Run on GPU - V2
-* Tabulate Results
-* Write Paper
+- [ ] Make Models -V1
+- [ ] Run on GPU - V2
+- [ ] Tabulate Results
+- [ ] Write Paper
