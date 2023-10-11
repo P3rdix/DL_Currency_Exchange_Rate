@@ -4,12 +4,12 @@
 
 - [x] GRU
 - [x] Autoencoder
-- [ ] 1D Convolution
+- [x] 1D Convolution
 - [ ] 1D Convolution + RNN
-- [ ] Transformer
+- [x] Transformer (Need to tune)
 
 
-- [ ] Make Models -V1
-- [ ] Run on GPU - V2
+- [x] Make Models -V1
+- [x] Run on GPU - V2
 - [ ] Tabulate Results
 - [ ] Write Paper
