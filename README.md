@@ -5,7 +5,7 @@
 - [x] GRU
 - [x] Autoencoder
 - [x] 1D Convolution
-- [ ] 1D Convolution + RNN
+- [x] 1D Convolution + RNN
 - [x] Transformer (Need to tune)
 
 
