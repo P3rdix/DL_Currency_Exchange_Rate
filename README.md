@@ -11,5 +11,6 @@
 
 - [x] Make Models -V1
 - [x] Run on GPU - V2
+- [ ] Create variance to value corelation  matrix
 - [ ] Tabulate Results
 - [ ] Write Paper
